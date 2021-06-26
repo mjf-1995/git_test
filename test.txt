@@ -6,3 +6,5 @@ master test
 hot-fix test
 github test
 github-branch test
+ssh test
+local test
